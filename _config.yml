@@ -1,0 +1,74 @@
+# Site settings
+title: Yao
+header-img: "img/background_grey.png"
+tagline: "有所思，在远道"  
+description: "写可以给人看的东西的地方"  
+baseurl: ""
+url: "https://alexanderwangsgithub.github.io/"  
+#url: "http://localhost:4000"
+
+# About/contact
+owner: 
+  name: "alexanderwangsgithub"
+  email: wg1033755123@gmail.com
+  bio: "所思在远道"
+
+# Data
+gavatar: img/mine_logo.jpg
+favicon: img/favicon.ico
+
+douban_username: null
+twitter_username: PossessingAlex  
+github_username: AlexanderWangsgithub  
+facebook_username: alexander.wang.944  
+weibo_username: null 
+zhihu_username: null  
+
+# Build settings  
+# use Github Flavored Markdown !important  
+# document: http://jekyllrb.com/docs/configuration/#kramdown  
+markdown: kramdown
+kramdown:
+  input: GFM
+highlighter: rouge
+
+gems: 
+- jekyll-gallery-generator
+- jekyll-paginate
+permalink: none
+paginate: 8
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Asia/Shanghai
+
+# Title
+
+
+# Defaults for posts
+defaults:
+  -
+    scope: 
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Alexander Wang"
+      header-img: "img/background_grey.png" # We don't want posts without a header image, that whould mean white on white
+
+
+# Comments 
+comments :
+  provider : duoshuo
+  duoshuo :
+    short_name : Alexander
+  disqus :
+      short_name : Alexander
+
+# Analytics and webmaster tools stuff goes here
+google_analytics: UA-66863061-1
+google_verify:
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:
+
+# Links to include in footer navigation
