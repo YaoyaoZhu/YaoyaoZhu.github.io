@@ -4,13 +4,13 @@ header-img: "img/background_grey.png"
 tagline: "有所思，在远道"  
 description: "写可以给人看的东西的地方"  
 baseurl: ""
-url: "https://alexanderwangsgithub.github.io/"  
+url: "https://YaoyaoZhu.github.io/"  
 #url: "http://localhost:4000"
 
 # About/contact
 owner: 
-  name: "alexanderwangsgithub"
-  email: wg1033755123@gmail.com
+  name: "YaoyaoZhu"
+  email: yaoyao.zhu.w@gmail.com
   bio: "所思在远道"
 
 # Data
@@ -18,9 +18,9 @@ gavatar: img/mine_logo.jpg
 favicon: img/favicon.ico
 
 douban_username: null
-twitter_username: PossessingAlex  
-github_username: AlexanderWangsgithub  
-facebook_username: alexander.wang.944  
+twitter_username: null  
+github_username: YaoyaoZhu  
+facebook_username: null 
 weibo_username: null 
 zhihu_username: null  
 
@@ -53,7 +53,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Alexander Wang"
+      author: "Yaoyao Zhu"
       header-img: "img/background_grey.png" # We don't want posts without a header image, that whould mean white on white
 
 
