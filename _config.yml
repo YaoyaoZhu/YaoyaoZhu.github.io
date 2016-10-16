@@ -1,8 +1,8 @@
 # Site settings
 title: Yao
 header-img: "img/background_grey.png"
-tagline: "有所思，在远道"  
-description: "写可以给人看的东西的地方"  
+tagline: "null_tagline"  
+description: "config_description"  
 baseurl: ""
 url: "https://YaoyaoZhu.github.io/"  
 #url: "http://localhost:4000"
@@ -11,7 +11,7 @@ url: "https://YaoyaoZhu.github.io/"
 owner: 
   name: "YaoyaoZhu"
   email: yaoyao.zhu.w@gmail.com
-  bio: "所思在远道"
+  bio: "config_ower_bio"
 
 # Data
 gavatar: img/mine_logo.jpg
