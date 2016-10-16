@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-description: "对世界好奇"
+description: "hello, world"
 header-img: "img/background_grey.png"
 ---
 
@@ -10,23 +10,6 @@ header-img: "img/background_grey.png"
 </center>
 **信息**
 
-- Alexander Wang 
+- 朱瑶瑶
 
-- Email：AlexanderWangWork@outlook.com
-
-**工作：**
-
-- 今：饿了么-商户系统架构研发，Java开发工程师
-
-**好奇**
-
-- 数学与程序实现
-
-- 吃法与做法
-
-- 文字
-
-
-
-> 审慎乐观
 
